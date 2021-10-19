@@ -1,11 +1,11 @@
 # Gshort News App
 
 <p align="center">
-  <img alt="" src="ss\28.png" width="180"/>
-  <img alt="" src="ss\29,png" width="180"/>
-  <img alt="" src="ss\30.png" width="180"/>
-  <img alt="" src="ss\31.png" width="180"/>
-  <img alt="" src="ss\iphone 4.jpg" width="180"/>
+  <img alt="" src="ss\28.png" width="200"/>
+  <img alt="" src="ss\29,png" width="200"/>
+  <img alt="" src="ss\30.png" width="200"/>
+  <img alt="" src="ss\31.png" width="200"/>
+  <img alt="" src="ss\32" width="180"/>
   <img alt="" src="ss\iphone 6.jpg" width="180"/>
 
 </p>
