@@ -1,16 +1,24 @@
-# gshort
+# Gshort News App
 
-A new Flutter application.
+<p align="center">
+  <img alt="" src="ss/Simulator Screen Shot - iPhone 12 Pro Max - 2021-04-12 at 07.11.03.png" width="180"/>
+  <img alt="" src="ss\Simulator Screen Shot - iPhone 12 Pro Max - 2021-04-12 at 07.11.21.png" width="180"/>
+  <img alt="" src="ss\Simulator Screen Shot - iPhone 12 Pro Max - 2021-04-12 at 07.12.15.png" width="180"/>
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# APPLICATION FUNCTIONALITY
+<h6>
+    <br>
+    APPLICATION FUNCTIONALITY <br>
+    1) Change Theme <br>
+    2) GetX use <br>
+    3) Bookmark news <br>
+    4) Read and unread news find<br>
+</h6>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# CODING STRUCTURE
+<h6>
+    1) flutter lints use for better the code quality<br>
+    2) CustomListViewBuilder is custom widget<br>
+</h6>

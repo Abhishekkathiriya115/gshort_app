@@ -34,7 +34,7 @@ class AllNews extends GetView<AllNewsController> {
         backgroundColor: Colors.white,
       ),
       body: Obx(() {
-        if (controller.isLoading.value)
+        if (controller.isLoading.value || controller.productList == null)
           return Center(
             child: CircularProgressIndicator(),
           );

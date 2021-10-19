@@ -38,7 +38,7 @@ class CategoryPage extends GetView<CategoryController> {
       ),
       // drawer: MyStatefulWidget(),
       body: Obx(() {
-        if (controller.isLoading.value)
+        if (controller.isLoading.value || controller.productList == null)
           return Center(
             child: CircularProgressIndicator(),
           );
